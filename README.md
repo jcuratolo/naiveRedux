@@ -1,0 +1,2 @@
+# naiveRedux
+Reimplementation of a redux/flux type pattern with async actions. This began as a fun experiment, but it outlined some interesting points. First, When you add dependency injection and the single responsibility principle to redux you more or less arrive back close to vanilla flux. In any case, its a nice pattern because you end up with fewer dependencies in your controllers and debugging is easier when you know the source of an action.
