@@ -1,3 +1,4 @@
+// Main controller
 function main($scope, dispatcher, store) {
   var dispatch = dispatcher.dispatch;
 
